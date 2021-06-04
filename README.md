@@ -1,1 +1,1 @@
-# AWSPracrice
+# AWSPractice
